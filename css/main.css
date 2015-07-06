@@ -7,7 +7,7 @@ body {
 	margin-top: 110px;
 	padding-left: 100px;
 	min-width: 1200px;
-	height: 500px;
+	height: 700px;
 
 }
 
@@ -18,7 +18,8 @@ body {
 	float: right;
 	text-align: right;
 	padding-right: 30px;
-	padding-top: 35px;
+	padding-top: 01px;
+
 }
 
 .hadouken, .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
@@ -37,11 +38,13 @@ body {
 
 .ryu {
 	float: left;
+
 }
 
 .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
 	width: 659px;
 	height: 494px;
+
 
 }
 
@@ -64,4 +67,32 @@ body {
 
 .ryu-cool {
 	background-image: url("../images/ryu-cool.gif");
+}
+.container h1{
+	text-align: center;
+	color: red;
+	font-size:  50px;
+margin-right: -550px;
+text-shadow: 3px 3px yellow;
+	
+}
+.main h3 {
+	text-align: center;
+	font-size: 25px;
+	color: purple;
+	margin-top: 50px;
+}
+.instructions {
+
+
+}
+
+
+
+
+
+.container {
+	width: 1200px;
+
+	margin-right: 5px;
 }
